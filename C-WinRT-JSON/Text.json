@@ -1,0 +1,26 @@
+{
+  "users": {
+    "list": [
+      {
+        "name": "John Doe",
+        "occupation": "gardener",
+        "_id": 1
+      },
+      {
+        "name": "Jane Doe",
+        "occupation": "teacher",
+        "_id": 2
+      },
+      {
+        "name": "Roger Roe",
+        "occupation": "driver",
+        "_id": 3
+      },
+      {
+        "name": "Lucia Smith",
+        "occupation": "shopkeeper",
+        "_id": 4
+      }
+    ]
+  }
+}
